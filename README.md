@@ -56,7 +56,7 @@
 
 **Вывод** Tolebrone, Lindt  и Mars лидируют на рынке по продажам.
 
-** Топ 3 мало продаваемых бренда по шоколаду **
+**Топ 3 мало продаваемых бренда по шоколаду**
 <img width="925" height="623" alt="sql result top 3 worst" src="https://github.com/user-attachments/assets/69ae440b-467b-46a1-a77e-f37c6ad148f1" />
 
 **Вывод** Cadbury, Hershey, Nestle имеют худшую позицию по продаваемости
@@ -65,10 +65,13 @@
 ##  Лучшие и удобные для клиентов точки которые приносят больше всего прибыли
 
 **SQL Query**
-<img width="1070" height="632" alt="sql syntax" src="https://github.com/user-attachments/assets/468bb2b6-72c9-4fcd-84bd-d0f77d4f6deb" />
+<img width="967" height="534" alt="7" src="https://github.com/user-attachments/assets/d4dd9fcf-63af-43c2-b17a-11316882a444" />
 
-**SQL Result**
-<img width="1077" height="509" alt="sql result" src="https://github.com/user-attachments/assets/d3a57682-146c-49fe-b5e7-28bfa9ee0289" />
+
+
+**SQL Result**" 
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/252e6a69-a484-4f47-ae6a-5752cacacce0" />
+
 
 **Вывод** Convenience Store является самым прибыльным и удобным видом магазина для клиентов среди остальных 3-их
 =======================================================================================================================================================
